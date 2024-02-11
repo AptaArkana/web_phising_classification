@@ -1,2 +1,5 @@
-# web_phising_classification
-Klasifikasi web phishing adalah proses yang penting dalam deteksi dan penanganan ancaman keamanan cyber. Dengan mengidentifikasi dan mengkategorikan situs web yang menggelar praktik phishing, baik secara manual maupun dengan bantuan algoritma dan teknologi terkini, organisasi dapat meminimalkan risiko kehilangan data sensitif dan informasi pribadi.
+# Web Phising Classification
+<p align='justify'>Projek ini bertujuan untuk mengidentifikasi dan mengklasifikasikan situs web phishing menggunakan teknik Deep Learning, dengan menganalisis URL dan konten HTML untuk mendeteksi ciri-ciri phishing/penipuan seperti kesalahan pengejaan nama domain, subdomain yang mencurigakan, formulir yang meminta data sensitif, skrip mencurigakan, dan desain halaman, dikarenakan phishing detector tradisional hanya menggunakan URL saja.</p>
+
+<p align='justify'>Menurut laporan Indonesian Anti-Phishing Data Exchange (IDADX) untuk periode selama tahun 2023, **laporan url phishing tertinggi** terjadi pada **bulan Februari** sebanyak **15.050** dan terendah **bulan November** sebanyak **1.729**. Menurut laporan terbaru dari Indonesian Anti-Phishing Data Exchange (IDADX) untuk **periode Oktober hingga Desember 2023**, terdapat **8.161** laporan URL phishing. **Bulan Desember** mencatat jumlah pelaporan **phishing tertinggi** dibandingkan bulan lainnya selama Q4 2023.</p>
+
