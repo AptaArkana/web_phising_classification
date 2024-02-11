@@ -11,13 +11,19 @@
 Banyak baris dataset url 45373 dan kolom 2
 <br>Banyak baris dataset html 45373 dan kolom 2
 
-<br><img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/93484cd3-ef48-4d25-bd26-e7144b3baf39">
+<br><img style="display:flex; width:auto; height:auto;" alt="Sebaran Kategori Data" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/93484cd3-ef48-4d25-bd26-e7144b3baf39">
 <p align='justify'>Dataset ini termasuk ke dalam data yang balance, karena ini terlihat dari perbedaan antara kategori <b>phising (spam)</b> dan kategori <b>non-phishing (ham)</b> hanya terdapat pada <b>satu data saja</b></p>
 
-<img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/3a56c46b-a3ef-48db-9ef6-7a52de9001ec">
+<img style="display:flex; width:auto; height:auto;" alt="Visualisasi Panjang Karakter" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/3a56c46b-a3ef-48db-9ef6-7a52de9001ec">
 <p align='justify'>Berdasarkan pola yang diamati pada dataset, <b>kategori phishing (spam)</b> cenderung memiliki <b>karakter yang panjang</b>, sementara <b>kategori non-phishing (ham)</b> cenderung memiliki <b>karakter yang pendek.</b></p>
 
 ## Hasil dan Evaluasi
+<img style="display:flex; width:auto; height:auto;" alt="Visualisasi Train & Validation" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/1c5f0a56-7036-48ae-9a57-4374a2241241">
+<p align='justify'>Dapat disimpulkan bahwa model ini memiliki performa yang sangat baik dalam klasifikasi. Hal ini terlihat dari nilai akurasi yang tinggi pada kedua set data pelatihan dan validasi, mencapai lebih dari 99%. Selain itu, nilai precision dan recall juga tinggi untuk kedua kategori, menunjukkan bahwa model memiliki kemampuan untuk mengidentifikasi dengan baik baik kelas positif (phishing) maupun kelas negatif (non-phishing). Secara umum, model ini telah berhasil dilatih dengan baik dan mampu memberikan prediksi yang andal untuk kasus klasifikasi phishing.</p>
+
+## Test Model
+<img style="display:flex; width:auto; height:auto;" alt="Test Case Model"  src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/23058699-988c-4c31-aba9-d77fd310f06a">
+
 
 ## Link Model dan Dataset
 Link model bisa diakses <a href="https://drive.google.com/drive/folders/1RUUWq0dpp8orM0dhdYCsYCuPDG-5nvtU?usp=drive_link">disini</a>
