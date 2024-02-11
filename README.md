@@ -12,7 +12,12 @@
 <br>`Banyak baris dataset html 45373 dan kolom 2`
 
 <img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/93484cd3-ef48-4d25-bd26-e7144b3baf39">
-<p align='justify'>Dataset ini termasuk ke dalam data yang balance, karena ini terlihat dari perbedaan antara kategori <b>phising (spam)</b> dan kategori <b>non-phishing (ham)</b> hanya terdapat pada satu data saja</p>
+<p align='justify'>Dataset ini termasuk ke dalam data yang balance, karena ini terlihat dari perbedaan antara kategori <b>phising (spam)</b> dan kategori <b>non-phishing (ham)</b> hanya terdapat pada <b>satu data saja</b></p>
 
 <img style="display:flex; width:auto; height:auto;" alt="Word Cloud Berita Fakta" src="https://github.com/AptaArkana/web_phising_classification/assets/79633073/3a56c46b-a3ef-48db-9ef6-7a52de9001ec">
 <p align='justify'>Berdasarkan pola yang diamati pada dataset, <b>kategori phishing (spam)</b> cenderung memiliki <b>karakter yang panjang</b>, sementara <b>kategori non-phishing (ham)</b> cenderung memiliki <b>karakter yang pendek.</b></p>
+
+## Hasil dan Evaluasi
+
+## Link Model dan Dataset
+Link model bisa diakses <a href="https://drive.google.com/drive/folders/1RUUWq0dpp8orM0dhdYCsYCuPDG-5nvtU?usp=drive_link">disini</a>
