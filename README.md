@@ -7,5 +7,5 @@
 <p align='justify'>Merupakan dataset yang terdiri dari 45,373 contoh, mewakili halaman web benign dan phishing secara merata. Setiap contoh mencakup berbagai elemen dokumen HTML seperti teks, hyperlink, gambar, tabel, daftar, dan berbagai komponen URL mulai dari subdomain hingga query. Terdapat dua file excel pada dataset ini, yakni URL.xlsx dan HTML.xlsx. Tiap file excel memiliki dua kolom, yakni ‘Category’ dan ‘Data’ Dataset ini terdiri dari data yang dikumpulkan dari Alexa.com untuk halaman web yang sah dan phishtank.com untuk halaman web phishing</p>
 
 ## EDA
-`Banyak baris dataset url 45373 dan kolom 2`
+``Banyak baris dataset url 45373 dan kolom 2``
 `Banyak baris dataset html 45373 dan kolom 2`
